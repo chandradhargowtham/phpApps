@@ -1,8 +1,8 @@
 <html>
-<head>
+<header>
 <title>Web Calculator</title>
 <h1>Web Calculator</h1>
-</head>
+</header>
 <body>
     <form action="WebCalculator.php" method="GET">
         <label for="n1">Enter First Number : </label>
@@ -80,9 +80,25 @@
         
         }else
         {
-
+            echo "Please Choose properly";
         }
         
     ?>
 </body>
 </html>
+<style>
+form
+{
+    background-color:#ede9e6;
+    text-align:center;
+}
+header
+{
+    background-color:#2c313c;
+    padding: 15px 15px 15px 15px;
+}
+body
+{
+    background-color:#cd5d4f;
+}
+</style>

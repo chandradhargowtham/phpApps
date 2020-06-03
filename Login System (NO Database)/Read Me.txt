@@ -1,0 +1,10 @@
+Basic Login System and session Management:
+
+> use the login.php file to login - currently, no database script is attached hence the username and password are given in the file itself.
+username = chan password = pwd
+
+> Once after login is successfull, a new session is created and we can access that from session.php
+
+> The session lasts for around 24 minutes (can change it in php.ini file).
+
+> Clicking on logout destroys the session.

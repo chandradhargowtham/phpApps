@@ -1,0 +1,29 @@
+
+File Name:
+$_FILES['uploaded_file']['tmp_name']
+
+Form should have:
+<form enctype="multipart/form-data" action="" method="POST">
+> Only POST would work. must have enctype.
+
+File Size:
+$_FILES['uploaded_file']['size']
+
+if condition:
+if($_FILES['uploaded_file']['size']<2*1048576){} (2 MB)
+
+
+function:  move_uploaded_file(file, dest) 
+
+
+php explode function splits string.
+
+Ex:
+$userfile_extn = explode(".", strtolower($_FILES['image']['name']));
+
+$fileExtension = explode($splitValue,$string);
+
+or
+
+ explode ( string $delimiter , string $string [, int $limit = PHP_INT_MAX ] ) : array
+where limit is Optional. Specifies the number of array elements to return. 

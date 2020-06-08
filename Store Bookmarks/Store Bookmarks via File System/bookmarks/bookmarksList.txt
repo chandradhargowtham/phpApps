@@ -1,0 +1,6 @@
+gmail$*$https://mail.google.com/mail/u/0/#inbox$*$Misc$*$
+Unity Events$*$https://docs.unity3d.com/Manual/EventSystem.html$*$Programming$*$
+Netflix Acclaimed$*$https://www.netflix.com/browse/genre/3979$*$Movies$*$
+Node JS Beginners$*$https://code.tutsplus.com/tutorials/nodejs-for-beginners--net-26314$*$GeneralTech$*$
+Guitar Chords$*$https://thebestguitarlessons.com/basic-guitar-chords-beginners/$*$Misc$*$
+Piano Chord Chart$*$https://www.8notes.com/piano_chord_chart/c.asp$*$Music$*$

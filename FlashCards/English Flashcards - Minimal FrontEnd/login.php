@@ -7,7 +7,7 @@ $userName=$_POST['userId'];
 $password=$_POST['pwd'];
 if (isset($_POST['submit'])) 
 {
-		if($userName=="chan" && $password="pwd")
+		if($userName=="chan" && $password=="pwd")
 		{
 			$_SESSION['loggedIn']=true;
 			header("Location: newWord.php");

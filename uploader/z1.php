@@ -1,0 +1,1 @@
+<?php include "header.php" ?><html><video controls preload = "auto" src="videos/1.mp4" ></video></html>
